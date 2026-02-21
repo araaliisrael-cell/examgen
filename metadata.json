@@ -1,0 +1,7 @@
+{
+  "name": "CBC Assessment Pro",
+  "description": "A Competency-Based Curriculum assessment tool for Ugandan students, featuring an AI facilitator to guide learning and evaluation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
